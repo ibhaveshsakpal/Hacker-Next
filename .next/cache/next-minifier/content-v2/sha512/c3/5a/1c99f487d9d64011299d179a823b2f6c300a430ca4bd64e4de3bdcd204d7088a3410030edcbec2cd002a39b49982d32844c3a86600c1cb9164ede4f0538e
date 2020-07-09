@@ -1,0 +1,1 @@
+{"code":"(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{PUIj:function(n,o,w){(window.__NEXT_P=window.__NEXT_P||[]).push([\"/sw\",function(){return w(\"Qt5x\")}])},Qt5x:function(n,o){console.log(\"SW Registered successful :)\")}},[[\"PUIj\",0]]]);","extractedComments":[]}
